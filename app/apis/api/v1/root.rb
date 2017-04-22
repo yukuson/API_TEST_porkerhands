@@ -95,7 +95,7 @@ module API
         #↓↓↓↓↓ターミナルへの表示と、eachの終了 ↓↓↓↓↓
           # result = "#{ranknamejudge(rankjudge(cards))}"
           # puts result
-
+          FooBar.hello
         end
 
       #↓↓↓↓↓過去に書いた処理↓↓↓↓↓
